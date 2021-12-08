@@ -3,7 +3,7 @@
 
 ------------
 
-<img src = /슬라이드0001.jpg height=400 width=650>
+<img src = pptimg/슬라이드0001.jpg height=400 width=650>
 <img src = pptimg/슬라이드0002.jpg height=400 width=650>
 <img src = pptimg/슬라이드0003.jpg height=400 width=650>
 <img src = pptimg/슬라이드0004.jpg height=400 width=650>
