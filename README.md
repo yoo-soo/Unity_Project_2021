@@ -30,7 +30,7 @@
 <img src = pptimg/슬라이드0025.jpg height=400 width=650>
 <img src = pptimg/슬라이드0026.jpg height=400 width=650>
 <img src = pptimg/슬라이드0027.jpg height=400 width=650>
- + 시연 영상은 zip파일로 따로 첨부해놓았습니다.
+ + 시연 영상 유튜브 링크 -> https://youtu.be/hUpWq2deP6g 
 
 ------------
 
